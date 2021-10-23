@@ -1,0 +1,21 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+  --first-brand-color: #fb0088;
+  --second-brand-color: #04a2f7;
+  --third-brand-color: #f9e52b;
+  --fourth-brand-color: #93d80a;
+
+  --main-font:  'Poppins';
+  --title-font:  'Poppins Bold';
+  --main-title-font: 'Architects Daughter';
+
+  font-size: 62.5%;
+}
